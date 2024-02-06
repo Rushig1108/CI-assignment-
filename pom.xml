@@ -43,7 +43,6 @@
                         <goals>
                             <goal>clean</goal>
                             <goal>instrument</goal>
-                            <goal>test</goal>
                         </goals>
                     </execution>
                 </executions>
